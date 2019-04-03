@@ -11,7 +11,7 @@ public interface UserTMapper {
     int deleteByExample(UserTExample example);
 
     int deleteByPrimaryKey(Integer id);
-
+//wokao
     int insert(User record);
 
     int insertSelective(User record);
