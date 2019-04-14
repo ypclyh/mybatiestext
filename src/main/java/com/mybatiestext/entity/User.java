@@ -2,7 +2,7 @@ package com.mybatiestext.entity;
 
 public class User {
     private Integer id;
-    private Integer id22;
+    private Integer id222;
     private String username;
 
     private String password;
